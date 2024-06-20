@@ -1,0 +1,19 @@
+body {
+    color: #1000e3;
+    background: #ffffff;
+    display: block;
+    align-item: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+    font-size: 10px;
+}
+
+#foot{
+    margin: 40px ;
+}
+
+h4{
+    color: #ff009d;
+}
